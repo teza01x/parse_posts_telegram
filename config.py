@@ -2,7 +2,7 @@ import os
 
 api_id = # api id int
 api_hash = 'api hash'
-channel_id = 'bananadeployerSOL'
+channel_id = ''
 session = "session_name"
 data_base = os.path.join(os.path.dirname(__file__), 'database.db')
 post_free_channel_id = # your channel id int
